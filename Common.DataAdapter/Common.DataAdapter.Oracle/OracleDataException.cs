@@ -14,7 +14,7 @@ namespace Common.DataAdapter.Oracle
         public OracleDataException() : base() { }
         public OracleDataException(string message) : base(message) { }
         public OracleDataException(string message, Exception innerException) : base(message, innerException) { }
-    #endregion
+    #endregion 
 
     #region GetDatabaseSpecificError Method
         /// <summary>
