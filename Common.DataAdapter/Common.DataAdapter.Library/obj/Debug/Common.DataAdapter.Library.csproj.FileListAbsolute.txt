@@ -1,0 +1,5 @@
+C:\Users\igorb\source\repos\ADO.NET Adapter\ADO.NET_adapter\Common.DataAdapter\Common.DataAdapter.Library\bin\Debug\Common.DataAdapter.Library.dll
+C:\Users\igorb\source\repos\ADO.NET Adapter\ADO.NET_adapter\Common.DataAdapter\Common.DataAdapter.Library\bin\Debug\Common.DataAdapter.Library.pdb
+C:\Users\igorb\source\repos\ADO.NET Adapter\ADO.NET_adapter\Common.DataAdapter\Common.DataAdapter.Library\obj\Debug\Common.DataAdapter.Library.csproj.CoreCompileInputs.cache
+C:\Users\igorb\source\repos\ADO.NET Adapter\ADO.NET_adapter\Common.DataAdapter\Common.DataAdapter.Library\obj\Debug\Common.DataAdapter.Library.dll
+C:\Users\igorb\source\repos\ADO.NET Adapter\ADO.NET_adapter\Common.DataAdapter\Common.DataAdapter.Library\obj\Debug\Common.DataAdapter.Library.pdb

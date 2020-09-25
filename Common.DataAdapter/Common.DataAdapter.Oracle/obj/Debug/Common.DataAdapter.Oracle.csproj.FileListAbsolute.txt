@@ -1,0 +1,5 @@
+C:\Users\igorb\source\repos\ADO.NET Adapter\ADO.NET_adapter\Common.DataAdapter\Common.DataAdapter.Oracle\bin\Debug\Common.DataAdapter.Oracle.dll
+C:\Users\igorb\source\repos\ADO.NET Adapter\ADO.NET_adapter\Common.DataAdapter\Common.DataAdapter.Oracle\bin\Debug\Common.DataAdapter.Oracle.pdb
+C:\Users\igorb\source\repos\ADO.NET Adapter\ADO.NET_adapter\Common.DataAdapter\Common.DataAdapter.Oracle\obj\Debug\Common.DataAdapter.Oracle.csproj.CoreCompileInputs.cache
+C:\Users\igorb\source\repos\ADO.NET Adapter\ADO.NET_adapter\Common.DataAdapter\Common.DataAdapter.Oracle\obj\Debug\Common.DataAdapter.Oracle.dll
+C:\Users\igorb\source\repos\ADO.NET Adapter\ADO.NET_adapter\Common.DataAdapter\Common.DataAdapter.Oracle\obj\Debug\Common.DataAdapter.Oracle.pdb

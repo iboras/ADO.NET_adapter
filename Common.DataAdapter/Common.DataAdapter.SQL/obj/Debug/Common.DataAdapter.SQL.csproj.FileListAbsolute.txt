@@ -1,0 +1,11 @@
+C:\Users\igorb\source\repos\ADO.NET Adapter\ADO.NET_adapter\Common.DataAdapter\Common.DataAdapter.SQL\bin\Debug\Common.DataAdapter.SQL.dll
+C:\Users\igorb\source\repos\ADO.NET Adapter\ADO.NET_adapter\Common.DataAdapter\Common.DataAdapter.SQL\bin\Debug\Common.DataAdapter.SQL.pdb
+C:\Users\igorb\source\repos\ADO.NET Adapter\ADO.NET_adapter\Common.DataAdapter\Common.DataAdapter.SQL\bin\Debug\Common.DataAdapter.DataLayer.dll
+C:\Users\igorb\source\repos\ADO.NET Adapter\ADO.NET_adapter\Common.DataAdapter\Common.DataAdapter.SQL\bin\Debug\Common.DataAdapter.Library.dll
+C:\Users\igorb\source\repos\ADO.NET Adapter\ADO.NET_adapter\Common.DataAdapter\Common.DataAdapter.SQL\bin\Debug\Common.DataAdapter.DataLayer.pdb
+C:\Users\igorb\source\repos\ADO.NET Adapter\ADO.NET_adapter\Common.DataAdapter\Common.DataAdapter.SQL\bin\Debug\Common.DataAdapter.Library.pdb
+C:\Users\igorb\source\repos\ADO.NET Adapter\ADO.NET_adapter\Common.DataAdapter\Common.DataAdapter.SQL\obj\Debug\Common.DataAdapter.SQL.csprojAssemblyReference.cache
+C:\Users\igorb\source\repos\ADO.NET Adapter\ADO.NET_adapter\Common.DataAdapter\Common.DataAdapter.SQL\obj\Debug\Common.DataAdapter.SQL.csproj.CoreCompileInputs.cache
+C:\Users\igorb\source\repos\ADO.NET Adapter\ADO.NET_adapter\Common.DataAdapter\Common.DataAdapter.SQL\obj\Debug\Common.DataAdapter.SQL.csproj.CopyComplete
+C:\Users\igorb\source\repos\ADO.NET Adapter\ADO.NET_adapter\Common.DataAdapter\Common.DataAdapter.SQL\obj\Debug\Common.DataAdapter.SQL.dll
+C:\Users\igorb\source\repos\ADO.NET Adapter\ADO.NET_adapter\Common.DataAdapter\Common.DataAdapter.SQL\obj\Debug\Common.DataAdapter.SQL.pdb

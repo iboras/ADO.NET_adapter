@@ -1,0 +1,10 @@
+C:\Users\igorb\source\repos\ADO.NET Adapter\ADO.NET_adapter\Common.DataAdapter\Common.DataAdapter.DataLayer\bin\Debug\Common.DataAdapter.DataLayer.dll
+C:\Users\igorb\source\repos\ADO.NET Adapter\ADO.NET_adapter\Common.DataAdapter\Common.DataAdapter.DataLayer\bin\Debug\Common.DataAdapter.DataLayer.pdb
+C:\Users\igorb\source\repos\ADO.NET Adapter\ADO.NET_adapter\Common.DataAdapter\Common.DataAdapter.DataLayer\bin\Debug\Common.DataAdapter.Library.dll
+C:\Users\igorb\source\repos\ADO.NET Adapter\ADO.NET_adapter\Common.DataAdapter\Common.DataAdapter.DataLayer\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\igorb\source\repos\ADO.NET Adapter\ADO.NET_adapter\Common.DataAdapter\Common.DataAdapter.DataLayer\bin\Debug\Common.DataAdapter.Library.pdb
+C:\Users\igorb\source\repos\ADO.NET Adapter\ADO.NET_adapter\Common.DataAdapter\Common.DataAdapter.DataLayer\obj\Debug\Common.DataAdapter.DataLayer.csprojAssemblyReference.cache
+C:\Users\igorb\source\repos\ADO.NET Adapter\ADO.NET_adapter\Common.DataAdapter\Common.DataAdapter.DataLayer\obj\Debug\Common.DataAdapter.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\igorb\source\repos\ADO.NET Adapter\ADO.NET_adapter\Common.DataAdapter\Common.DataAdapter.DataLayer\obj\Debug\Common.DataAdapter.DataLayer.csproj.CopyComplete
+C:\Users\igorb\source\repos\ADO.NET Adapter\ADO.NET_adapter\Common.DataAdapter\Common.DataAdapter.DataLayer\obj\Debug\Common.DataAdapter.DataLayer.dll
+C:\Users\igorb\source\repos\ADO.NET Adapter\ADO.NET_adapter\Common.DataAdapter\Common.DataAdapter.DataLayer\obj\Debug\Common.DataAdapter.DataLayer.pdb
