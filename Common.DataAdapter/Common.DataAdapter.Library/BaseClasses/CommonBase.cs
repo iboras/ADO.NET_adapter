@@ -1,5 +1,6 @@
 ﻿using System;
 using System.ComponentModel;
+using System.Runtime.CompilerServices;
 using System.Reflection;
 
 namespace Common.DataAdapter.Library
@@ -17,7 +18,7 @@ namespace Common.DataAdapter.Library
         /// The event is only invoked if data binding is used
         /// </summary>
         /// <param name="propertyName">The property name that is changing</param>
-        protected void RaisePropertyChanged(string propertyName)
+        protected void RaisePropertyChanged([CallerMemberName] string propertyName = "")
         {
             // Grab a handler
             PropertyChangedEventHandler handler = this.PropertyChanged;
